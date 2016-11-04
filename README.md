@@ -34,7 +34,7 @@ Thanks for the contribution from open source community who have developed Arduin
 ## Tutorials
 
 ### 1.Get started on Arduino
-The tutorial of LinkNode core Esp8266 to get started on Arduino programing as same as [LinkNode D1](http://linksprite.com/wiki/index.php5?title=LinkNode_D1).
+The tutorial of LinkNode core Esp8266 to get started on Arduino programming as same as [LinkNode D1](http://linksprite.com/wiki/index.php5?title=LinkNode_D1).
 
 ### 2.LinkNode core Esp8266 Sensors
 LinkNode core Esp8266 have many sensors now and sensor-driven are already written, we also continue to update the number of sensors,we will make LinkNode series more stronger.
