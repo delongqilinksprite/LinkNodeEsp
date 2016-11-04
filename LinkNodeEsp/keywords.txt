@@ -1,0 +1,5 @@
+# author : Derron form LinkSprite
+# date : 2016.11.03
+
+LinkNode 2.0 For Esp8266 Core 
+Sensors : Beep , Realy , Button , INfrared , 4Dig-7Seg ,Temt6000 , AM2303 ,Pressure
