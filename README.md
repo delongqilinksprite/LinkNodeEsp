@@ -38,7 +38,7 @@ Get Start in Arduino you can learn from [LinkNode D1](http://linksprite.com/wiki
 
 ### 2.LinkNode core Esp8266 Sensors
 LinkNode core Esp8266 now there are many sensors and sensor-driven are already written, we also continue to update the number of sensors,we will make LinkNode series more stronger.
-* Download LinkNode core Sensors library from [github]().
+* Download LinkNode core Sensors library from [github](https://github.com/delongqilinksprite/LinkNodeEsp/tree/master/LinkNodeEsp).
 * Move the library to arduino-xxx(version)/libraries/
 
 #### a.LinkNode Module Buzzer
