@@ -7,7 +7,7 @@
 
 LinkNode core is Arduino-compatible WiFi development board which is powered by the high integrated WiFi chip ESP-8266EX.
 
-Thanks for the contribution from open source community who have developed Arduino core for ESP8266, this let Aduino IDE program LinkNode core without any change. At the same time, LinkNode D1 has Arduino-compatible pin out which make it very easy to connect to Arduino shield.
+Thanks for the contribution from open source community who have developed Arduino core for ESP8266, this let Aduino IDE program LinkNode core without any change. At the same time, LinkNode core Esp8266 has Linker Base which make it very easy to connect to LinkNode Sensors.
 
 ## Features
 * Powered by ESP-8266EX
@@ -33,11 +33,11 @@ Thanks for the contribution from open source community who have developed Arduin
 
 ## Tutorials
 
-### 1.Get started in Arduino
-Get Start in Arduino you can learn from [LinkNode D1](http://linksprite.com/wiki/index.php5?title=LinkNode_D1).
+### 1.Get started on Arduino
+The tutorial of LinkNode core Esp8266 to get started on Arduino programing as same as [LinkNode D1](http://linksprite.com/wiki/index.php5?title=LinkNode_D1).
 
 ### 2.LinkNode core Esp8266 Sensors
-LinkNode core Esp8266 now there are many sensors and sensor-driven are already written, we also continue to update the number of sensors,we will make LinkNode series more stronger.
+LinkNode core Esp8266 have many sensors now and sensor-driven are already written, we also continue to update the number of sensors,we will make LinkNode series more stronger.
 * Download LinkNode core Sensors library from [github](https://github.com/delongqilinksprite/LinkNodeEsp/tree/master/LinkNodeEsp).
 * Move the library to arduino-xxx(version)/libraries/
 
